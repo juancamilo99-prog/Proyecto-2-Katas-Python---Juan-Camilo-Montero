@@ -1,0 +1,5 @@
+#Escribe un programa que pida al usuario dos números 
+# e intente dividirlos. Si el usuario ingresa un valor 
+# no numérico o intenta dividir por cero, maneja esas 
+# excepciones de manera adecuada y muestra un mensaje i
+# ndicando si la división fue exitosa o no.
