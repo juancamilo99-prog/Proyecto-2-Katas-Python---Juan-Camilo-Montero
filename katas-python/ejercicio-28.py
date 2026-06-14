@@ -3,4 +3,3 @@
 
 lista_numeros = [2,6,7,5,2]
 
-def 
