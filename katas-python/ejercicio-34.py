@@ -33,7 +33,7 @@ class Arbol:
 
     
     def nueva_rama(self, cantidad):
-        self.ramas.append(1)
+        self.ramas.append(cantidad)
 
 
     def crecer_ramas(self):
