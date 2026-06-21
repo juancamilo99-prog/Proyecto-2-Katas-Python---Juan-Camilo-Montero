@@ -8,6 +8,8 @@ listaPalabras = ["manzana", "banana", "naranja", "pera", "melocotón"]
 
 def palabras_con_objetivo(lista, palabraObjetivo):
     palabras_con_objetivo = list(filter(
+        #filtramos la lista para preguntar si la palabraObjetivo
+        #esta dentro de la lista palabra
         lambda palabra: palabraObjetivo in palabra, lista
     ))
     return palabras_con_objetivo
